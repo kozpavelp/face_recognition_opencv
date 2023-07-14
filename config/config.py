@@ -1,0 +1,1 @@
+DATABASE_URL = 'postgresql+asyncpg://recognition:recognition@localhost:5432/recognition'
